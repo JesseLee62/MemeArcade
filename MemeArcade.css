@@ -1,0 +1,81 @@
+.bg-top{
+    background-color: black;
+    height: 40px
+}
+
+.navbar{
+    padding-left: 40px;
+}
+
+.navbar-brand{
+    font-size: 200%;
+    margin-top: -5px;   /* ARCADE move up */
+}
+
+
+.form-control::placeholder{
+    font-style: italic; /* search.. */
+}
+
+.magRight{
+    margin-right : 20px;
+}
+
+.breadcrumb-item > a{
+    color : black;
+}
+
+.bord-costom{
+    border: lightgray solid 0.5px;
+    padding: 20px;
+}
+
+.meme-custom{
+    border: lightgray solid 0.5px;
+    margin: 20px;
+    width : 30%;
+    font-weight: bold;
+    font-size : 200%;
+    text-align : center;
+}
+
+.image-container {
+    display: flex;
+}
+
+.image-container img {
+    width: 90%; 
+    margin-left: 20px;
+}
+
+.caption-custom {
+    width: 90%; 
+    margin-left: 20px;
+    text-align: center;
+}
+
+.image-container p{
+    text-align : center;
+    color : white;
+    font-size: 40px;
+}
+
+.mgBottom{
+    margin-bottom: 20px;
+}
+
+.page {
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+}
+
+.titleStyle{
+    color : black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.smCard{
+    padding: 0%;
+}
