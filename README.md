@@ -1,4 +1,4 @@
-# MemeGallery
+# MemeCraft
 Start crafting your own custom memes and enjoy the arcade!
 ## Run
 Open the file 'MemeArcade.html' in a web browser
